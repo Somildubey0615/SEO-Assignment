@@ -1,0 +1,19 @@
+               Benefits of using meta tag
+
+1.Better user experience -For a dynamic website user experience of a web application is must, and for giving better user experience to a user, a developer should always be aware of the usage of meta tags. A well Optimized meta description provides a summary of the page's content this helps user to undrstand what type of content website has. and it can get good trafic on your web application.
+
+2.Search Engine Optimization(SEO) - By using Meta tags like meta tags and description etc. we can improve website's SEO or web application's web ranking.
+
+3.Accessibility - Meta tags increases the web application's Accessibility. use of meta tags like meta viewport, meta description can increase your website's Accessibility on desktop and mobile device also. enhancing web Accessibility makes website user friendly on various screen sizes.
+
+4.Social Media Sharing - Social media sharing meta tags are HTML meta tags that provide information to social media platforms when a webpage is shared or linked on those platforms. They allow you to control how your content appears when shared on social media, making it more engaging and visually appealing. Here are some commonly used social media sharing meta tags are
+1.Twittwer card meta tags for twittwer
+2.Open graph meta tags for facebook
+3.meta tag for linkdln
+
+5.Viewport controle - By using meta tag a developer can control how a webpage is displayed on various device and screen sizes.By using the viewport meta tag you make your website more mobile-friendly and responsive. It helps ensure that your content is displayed correctly and is readable on various screen sizes and orientations, enhancing the user experience for mobile users.
+
+6.Favicons - The meta tag like favicon specify the short icon(favicon).it helps you to define the small icon that appears in the browser tab or bookmark, its for recognition and user experience. Favicon is a short form of fevorite icon. favicon is a small and sqare shape based graphical icon. when you visit google website you can see a "G" icon on the tab same thing with twitter when you visit twitter website there is a "bird" icon, these type of identity icons are called "Favicon".
+    
+
+
